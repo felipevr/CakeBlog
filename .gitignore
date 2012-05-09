@@ -1,5 +1,8 @@
-tmp/*
-config/database.php
-app/tmp/*
-app/config/database.php
-!empty
+/app/Config/database.php
+/app/tmp
+/lib/Cake/Console/Templates/skel/tmp/
+/plugins
+/build
+/dist
+.DS_Store
+tags
